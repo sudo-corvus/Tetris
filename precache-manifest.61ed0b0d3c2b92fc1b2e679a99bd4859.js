@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b7c92f9165b9c37b1563261fd1e24e35",
+    "revision": "91a0a8fb1ad24c4bf5ac870065ca423d",
     "url": "/Tetris/index.html"
   },
   {
-    "revision": "ce39a11634424dea7c31",
+    "revision": "909fb001fbd4a78fdc47",
     "url": "/Tetris/static/css/main.66dc15d2.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Tetris/static/js/2.5c94cc50.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ce39a11634424dea7c31",
-    "url": "/Tetris/static/js/main.ef3b2c66.chunk.js"
+    "revision": "909fb001fbd4a78fdc47",
+    "url": "/Tetris/static/js/main.724fa9d0.chunk.js"
   },
   {
     "revision": "bc32f3af2d9052356c66",
@@ -28,7 +28,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Tetris/static/media/Pixel-LCD-7.e2897552.woff"
   },
   {
-    "revision": "2810fe6b5435e75b3dad63e341b97d02",
-    "url": "/Tetris/static/media/bg.2810fe6b.png"
+    "revision": "67fc90ddfc2724f44ef7c0068a42858b",
+    "url": "/Tetris/static/media/bg.67fc90dd.jpg"
   }
 ]);
